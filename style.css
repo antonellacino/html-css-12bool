@@ -1,0 +1,10 @@
+div{
+  background-color: pink;
+  border: 1px solid black;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+}
+.red{
+  background-color: red;
+}
